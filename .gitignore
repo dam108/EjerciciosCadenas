@@ -1,5 +1,15 @@
-# Compiled class file
+#java specific
 *.class
+
+#netbeans ignore personal stuff
+nbproject/
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
 
 # Log file
 *.log
