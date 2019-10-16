@@ -1,4 +1,4 @@
-package ejercicios;
+package ejercicioscadenas;
 import java.util.*;
 public class Ejercicio0504 {
     public static void main(String[] args) {

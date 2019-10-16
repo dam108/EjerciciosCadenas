@@ -1,4 +1,4 @@
-package ejercicios;
+package ejercicioscadenas;
 import java.util.Scanner;
 public class Ejercicio0503 {
     public static void main(String[] args) {

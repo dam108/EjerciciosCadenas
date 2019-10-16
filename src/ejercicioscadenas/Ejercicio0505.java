@@ -1,12 +1,12 @@
-package ejercicios;
+package ejercicioscadenas;
 //import java.util.Scanner;
 public class Ejercicio0505 {
     public static void main(String[] args) {
-       StringBuilder letras = new StringBuilder("abcdefghij");// Scanner teclado = new Scanner(System.in);
+       String letras = "abcdefghij";// Scanner teclado = new Scanner(System.in);
        String password = ""; // cadena con las letras a usar
        int longitud = letras.length(); // longitud de la cadena
        int num = (int)(Math.random()*6 + 5); // generamos un numeo aleatorio entre 5 y 10
-       int pos = 0;
+       int pos;
        char caracter;
        
        for ( int i = 0 ;i < num; i++){
