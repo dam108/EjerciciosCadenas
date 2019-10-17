@@ -31,7 +31,7 @@ public class Ejercicio0512 {
             }
 
             
-        } while (/*longitud != 6 && */allDigitos != true /* && noRepetirse != false*/); // ejecutar bucle mientras la longitud sea diferente de 6 y mientras que todos los caracteres no sean digitos y mientras que se repita algun numero.
+        } while (longitud != 6 || !allDigitos /*/* && noRepetirse != false*/); // ejecutar bucle mientras la longitud sea diferente de 6 y mientras que todos los caracteres no sean digitos y mientras que se repita algun numero.
 
     }
 }
