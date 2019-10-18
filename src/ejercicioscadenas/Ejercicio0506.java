@@ -1,6 +1,6 @@
 package ejercicioscadenas;
 import java.util.Scanner;
-public class Ejercicios0506 {
+public class Ejercicio0506 {
     public static void main(String[] args) {
         String email;
         Scanner teclado = new Scanner(System.in);

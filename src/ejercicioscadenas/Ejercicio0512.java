@@ -40,7 +40,6 @@ public class Ejercicio0512 {
                 } else noRepetirse = true;
                 
             }// fin for
-            noRepetirse = true;
         } while (longitud != 6 || !allDigitos || !noRepetirse); // ejecutar bucle mientras la longitud sea diferente de 6 o mientras que todos los caracteres no sean digitos o mientras que se repita algun numero.
         System.out.println("Has introducido los numeros correctamente!");
     }

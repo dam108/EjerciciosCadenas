@@ -18,8 +18,7 @@ System.out.println(cadenaSB);
 
 /* CODIGO BIEN */
 
-lo que creo que quiere hacer es borrar los espacios en blanco de una frase pero
-sobra el if , ya que el bucle solo se ejecuta mientras sea un espacio en blanco
+lo que creo que quiere hacer es borrar los espacios en blanco , ya que el bucle solo se ejecuta mientras sea un espacio en blanco,
 yo lo que haria seria recorrer la frase con un for y en cada caracter mirar si
 es un espacio en blanco o no y luego si lo es pues borrarlo.
 

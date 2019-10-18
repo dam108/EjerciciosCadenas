@@ -16,7 +16,7 @@ public class Ejercicio0509 {
         edad = teclado.nextInt();
 
         // imprimir con la clase format Hola , me llamo "nombre" "apellidos" y tengo "edad" años
-        String cadena = String.format("hola mi nombre es %4$s %2$s %3$s y mi edad es %1$d", edad, apellido1, apellido2, nombre);
+        String cadena = String.format("hola mi nombre es %4$s %2$s %3$s y tengo %1$d años", edad, apellido1, apellido2, nombre);
         System.out.println(cadena);
     }
 }

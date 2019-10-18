@@ -20,7 +20,7 @@ public class Ejercicio0504 {
             
         }
         System.out.print(cade);
-        
+        System.out.println("");
     }
     
 }
